@@ -1,6 +1,6 @@
 # tidal-notes
 
-## april 2020 - weej 01
+## april 2020 - week 01
 
 ### Install Tidal
 
