@@ -14,7 +14,7 @@ Y para correr todo el bloque de código ctrl+enter
 
 Probar el helloWorld en atom o en el browser
 
-  ```tidal
+  ```atomHydra
  osc().out()
   ```
 
