@@ -1,6 +1,7 @@
 # hydra-notes
 
-## About
+## links
+https://github.com/diegodorado/taller-hydra
 
 by Gabriel Andrade
 
