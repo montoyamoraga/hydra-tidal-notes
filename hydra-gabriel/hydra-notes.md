@@ -26,7 +26,15 @@ Podemos escoger screens abiertas de la computadora o la cámara
  s0.initScreen(0) //initCam(0)
  src(s0).out()
   ```
-###Solid
+### Solid
+Sirve para pintar colores enteros. Al utilizar [ ] es para ir cambiando en un arreglo de valores.
+hay cuatro outputs que puedes combinar. Utilizas render() para ver todos o señalar cual quieres ver. 
+ ```atomHydra
+  
+solid([1,0,1],[1,0,0],[0,1,0],1).out(o0)
+solid([1,0,0.2],[0,1,0],[0.5,1,0],1).out(o1)
+render()
+  ```
 
 by Gabriel Andrade
 
