@@ -26,7 +26,7 @@ Podemos escoger screens abiertas de la computadora o la cámara
  s0.initScreen(0) //initCam(0)
  src(s0).out()
   ```
-
+###Solid
 
 by Gabriel Andrade
 
